@@ -16,7 +16,7 @@ The key features of CodeEnhancer are:
 
 The following diagram summarizes the two-stage workflow of CodeEnhancer.
 <p align="center">
-  <img src="framework_overview.png" alt="CodeEnhancer Framework Overview" width="700"/>
+  <img src="framework_overview.jpg" alt="CodeEnhancer Framework Overview" width="700"/>
 </p>
 
 ### Stage 1 (blue frame in the figure)
